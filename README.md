@@ -1,1 +1,5 @@
-# UniversalSentenceEncoder-Data-Science
+- Universal Sentence Encoder
+- PCA
+- KMeans
+- 2D Visuelization
+- Clastering
